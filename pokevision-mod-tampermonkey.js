@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         pokevision mod
-// @version      0.11
-// @description  Pokevision full screen/restore pokemon choices / add many places to scan
-// @author       aimilios peppas
-// @match        https://pokevision.com/*
-// @include 	 https://pokevision.com/*
-// @downloadURL	 https://github.com/aimiliano/Pokevision-mods/blob/master/pokevision-mod-tampermonkey.js
-// @namespace 	 https://github.com/aimiliano/Pokevision-mods
-// @updateURL 	 https://github.com/aimiliano/Pokevision-mods/blob/master/pokevision-mod-tampermonkey.js
-// @grant        none
+// @name pokevision mod
+// @version 0.11
+// @description Pokevision full screen/restore pokemon choices / add many places to scan
+// @author aimilios peppas
+// @match https://pokevision.com/*
+// @include https://pokevision.com/*
+// @downloadURL https://github.com/aimiliano/Pokevision-mods/blob/master/pokevision-mod-tampermonkey.js
+// @namespace https://github.com/aimiliano/Pokevision-mods
+// @updateURL https://github.com/aimiliano/Pokevision-mods/blob/master/pokevision-mod-tampermonkey.js
+// @grant none
 // ==/UserScript==
 
 (function() {
