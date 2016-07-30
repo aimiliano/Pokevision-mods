@@ -1,4 +1,12 @@
 # Pokevision-mods
+## What this script does:
+
+Removes all frames from the page and leaves it Full screen :D (configurable if you want to see the header or footer or sidebar)
+
+Can set specific areas to scan automatically (no more click click click!) (configurable timings dont overdo it!)
+
+Shows only specific Pokemon the ones you are intrested in (configurable)
+
 
 ## Installing the script using Tampermonkey (Chrome)
 
