@@ -7,6 +7,8 @@ Can set specific areas to scan automatically (no more click click click!) (confi
 
 Shows only specific Pokemon the ones you are intrested in (configurable)
 
+Licence: MIT
+
 
 ## Installing the script using Tampermonkey (Chrome)
 
