@@ -8,9 +8,7 @@
 // @downloadURL https://github.com/aimiliano/Pokevision-mods/blob/master/pokevision-mod-tampermonkey.js
 // @namespace https://github.com/aimiliano/Pokevision-mods
 // @updateURL https://github.com/aimiliano/Pokevision-mods/blob/master/pokevision-mod-tampermonkey.js
-// @grant none
 // ==/UserScript==
-
 (function() {
 //Just copy paste this to your console (yuo have to do this in every page reload if you like you can install tempermonkey in order to do it automatically)
 function init($){
