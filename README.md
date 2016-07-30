@@ -6,7 +6,7 @@ Tampermonkey lets you install userscripts in Chrome, similarly to how Greasemonk
 
 1. Install the [Tampermonkey extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/related) for Chrome.
 
-2. Click this link to navigate to the script URL: https://github.com/aimiliano/Pokevision-mods/blob/master/pokevision-mod-tampermonkey.user.js
+2. Click this link to navigate to the script URL: https://github.com/aimiliano/Pokevision-mods/raw/master/pokevision-mod-tampermonkey.user.js
 
 3. Tampermonkey will detect the userscript and will open a new tab. Click on `Install to Tampermonkey` and click Ok.
 
