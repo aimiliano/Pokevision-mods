@@ -28,19 +28,26 @@ If you don't want or can't install one of the previously mentioned browser exten
   https://raw.githubusercontent.com/aimiliano/Pokevision-mods/master/pokevision-js-mod.js
 3. Press `Enter` to run the code.
 
-
 ## How to Define the areas you want to scan.
+
 There are 2 options.
-//Easy one
-1. Write down all the Lat,Long that appears on the URL and then format it as following:
-[ [lat,long],[lat,long],... ] 
-then paste it to the script in the section my_neighboorhood = //your array
+
+Easy one:
+1. Write down (or copy paste) all the Lat,Long that appears on the URL as you click on the map and then format it as following:  
+[ [lat,long],[lat,long],... ]  
+then paste it to the script in the section my_neighboorhood = //your array   
 and thats it!
 
-2. enable click on maps
- uncomment  //L.circle(latlonarr, 1000).addTo(App.home.map);
-then refresh page , click where you want to scan, then open console copy the coords, format it as following:
+
+More advanced:
+
+2. enable click on maps  like this:  
+uncomment  //L.circle(latlonarr, 1000).addTo(App.home.map); from the Js  
+then refresh page , click where you want to scan,  
+then open console copy the coords, format it as following:
 [ [lat,long],[lat,long],... ] 
-then paste it to the script in the section my_neighboorhood = //your array
-and thats it!
-remember to comment again //L.circle(latlonarr, 1000).addTo(App.home.map); in the js if you dont want the circle to show
+then paste it to the script in the section  
+my_neighboorhood = //your array  
+and thats it!  
+remember to comment again //L.circle(latlonarr, 1000).addTo(App.home.map);  
+in the js if you dont want the circle to show
