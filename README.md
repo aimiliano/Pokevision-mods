@@ -32,7 +32,8 @@ If you don't want or can't install one of the previously mentioned browser exten
 
 There are 2 options.
 
-Easy one:
+Easy one: 
+
 1. Write down (or copy paste) all the Lat,Long that appears on the URL as you click on the map and then format it as following:  
 [ [lat,long],[lat,long],... ]  
 then paste it to the script in the section my_neighboorhood = //your array   
