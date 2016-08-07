@@ -1,4 +1,9 @@
 # Pokevision-mods
+
+## Pokevision Stopped Working
+Unfortunately Pokevision stopped working so i keep this here only for reference..
+Thanks everyone for noticing!
+
 ## What this script does:
 
 Removes all frames from the page and leaves it Full screen :D (configurable if you want to see the header or footer or sidebar)
